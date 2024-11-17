@@ -63,7 +63,5 @@ function quiz() {
 
 // running the functions
 intro();
+quiz();
 
-for (i = 0; i <= 3; i++) {
-  quiz();
-}
